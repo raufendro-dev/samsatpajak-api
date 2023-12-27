@@ -7,7 +7,7 @@ Link Samsat DI Yogyakarta : https://samsatsleman.jogjaprov.go.id/cek/pajak
 
 ### Run
 #### DI Yogyakarta
-Live link sample : http://103.193.178.139:8686/samsat/jogja?nopol=ab4444zq
+Live link sample : http://103.193.178.139:8686/samsat/jogja?nopol=ab34444ve
 
 Parameter nopol adalah parameter nomor polisi kendaraan
 
