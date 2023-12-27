@@ -7,7 +7,7 @@ Link Samsat DI Yogyakarta : https://samsatsleman.jogjaprov.go.id/cek/pajak
 
 ### Run
 #### DI Yogyakarta
-Live link sample : http://103.193.178.139:86/samsat/jogja?nopol=ab4444zq
+Live link sample : http://103.193.178.139:8686/samsat/jogja?nopol=ab4444zq
 
 Parameter nopol adalah parameter nomor polisi kendaraan
 
@@ -22,7 +22,7 @@ Pertama install terlebih dahulu library python berikut
 ### Run WebServer
 Jalankan file webserver
 - python3 webserver.py
-- buka pada browser, contoh : http://localhost:86/samsat/jogja?nopol=ab4444zq
+- buka pada browser, contoh : http://localhost:8686/samsat/jogja?nopol=ab4444zq
 
 ### Catatan
 - Link pada browser bisa menggunakan ip atau domain anda
